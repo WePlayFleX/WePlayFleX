@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WePlayFleX / Alexander
+- 👋 Hi, I’m @WePlayFleX / Aliaxander
 - 👀 I’m interested in in non-standard approaches to programming
 - 🌱 I’m currently learning in computer academy "STEP"
 - 💞️ I’m looking to collaborate on aviation industry, automobile 
